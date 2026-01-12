@@ -1,0 +1,25 @@
+# Core
+streamlit>=1.34
+pandas>=2.1
+numpy>=1.26
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.20
+
+# EDA helpers
+missingno>=0.5.2
+
+# ML / preprocessing pipelines
+scikit-learn>=1.4
+scipy>=1.11
+joblib>=1.3
+threadpoolctl>=3.2
+
+# File encodings (you already needed it)
+chardet>=5.2
+
+# Excel export (optional but recommended for Export page)
+openpyxl>=3.1
+pyarrow>=14
