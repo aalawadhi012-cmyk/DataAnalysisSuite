@@ -76,6 +76,9 @@ def footer():
         <div class="muted" style="font-size:12px; text-align:center;">
           Data Analysis Suite • Streamlit UI • Modular Architecture
         </div>
+        <div class="muted" style="font-size:12px; text-align:center; margin-top:4px;">
+          Developed &amp; Programmed by <b>Anas Alawadhi</b>
+        </div>
         """,
         unsafe_allow_html=True
     )
